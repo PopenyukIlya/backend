@@ -13,5 +13,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://bd4e7a6cab7e36:2d58d9e6@eu-cdbr-west-03.cleardb.net/heroku_27b356af8b8a94d?reconnect=true</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="bu52kbc3c3mulbhz0omc@bu52kbc3c3mulbhz0omc-mysql.services.clever-cloud.com" uuid="0f9f5fa6-cac3-41ef-9a7a-7d3cec061927">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://bu52kbc3c3mulbhz0omc-mysql.services.clever-cloud.com:3306/bu52kbc3c3mulbhz0omc</jdbc-url>
+    </data-source>
   </component>
 </project>
